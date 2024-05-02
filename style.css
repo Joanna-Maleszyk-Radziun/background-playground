@@ -1,0 +1,20 @@
+body {
+    background: #09070C;
+    color: lime;
+    min-height: 100vh;
+    background-image: url('/circle.png');
+    background-attachment: local;
+    background-position: center center;
+    
+}
+
+.main {
+   font-size: 5rem; 
+   padding: 3rem;
+   background-color: rgba(0,0,0,0.9)
+   
+}
+
+.special {
+    
+}
